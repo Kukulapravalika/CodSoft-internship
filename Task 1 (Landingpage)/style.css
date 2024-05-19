@@ -159,9 +159,9 @@ header ul li a:hover{
 }
 .search-input::placeholder
  {
-    color: rgb(109, 104, 104)
+    color: rgb(109, 104, 104);
 }
 .search-icon {
-    background-color:rgb(21, 21, 21)
+    background-color:rgb(21, 21, 21);
     margin: 0px 10px 0px 10px;
 }
